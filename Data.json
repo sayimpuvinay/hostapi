@@ -1,0 +1,48 @@
+[
+  {
+    "role": "Owner",
+    "email": "owner1@example.com",
+    "password": "ownerpass1"
+  },
+  {
+    "role": "Owner",
+    "email": "owner2@example.com",
+    "password": "ownerpass2"
+  },
+  {
+    "role": "Tenant",
+    "name": "John Doe",
+    "pgName": "PG1",
+    "roomNum": "101",
+    "dateOfJoining": "2023-06-01",
+    "mobileNum": "1234567890",
+    "email": "john@example.com",
+    "password": "johnpass",
+    "electricityBill": 500,
+    "complaints": "No hot water in the mornings."
+  },
+  {
+    "role": "Tenant",
+    "name": "Jane Smith",
+    "pgName": "PG2",
+    "roomNum": "102",
+    "dateOfJoining": "2023-07-01",
+    "mobileNum": "0987654321",
+    "email": "jane@example.com",
+    "password": "janepass",
+    "electricityBill": 450,
+    "complaints": "Internet connectivity issues."
+  },
+  {
+    "role": "Tenant",
+    "name": "Michael Johnson",
+    "pgName": "PG3",
+    "roomNum": "103",
+    "dateOfJoining": "2023-08-01",
+    "mobileNum": "1122334455",
+    "email": "michael@example.com",
+    "password": "michaelpass",
+    "electricityBill": 600,
+    "complaints": "Room cleaning service is irregular."
+  }
+]
